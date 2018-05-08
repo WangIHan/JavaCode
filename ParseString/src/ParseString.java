@@ -37,3 +37,6 @@ class ParseString {
         System.out.println(parsing("Syetem.out.println(a[3]+b[3]+c()))]"));
     }
 }
+
+
+StringTokenizer st = StringTokenizer("ab");
